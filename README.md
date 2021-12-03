@@ -16,5 +16,8 @@ Create Typhoon Graph Using GMT(Study psxy)
 ./createGraph.sh
 ```
 
+## Detailed Explanation(Japanese)
+・[Blog](https://atchicken.com/typhoon_data/)
+
 ## Examples
 ![image](https://user-images.githubusercontent.com/93382642/141290220-9ece6e1d-f656-4bbc-b5b7-32723eca7140.png)
